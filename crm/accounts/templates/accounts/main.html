@@ -1,3 +1,5 @@
+{% load static %}
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -8,6 +10,9 @@
       integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
       crossorigin="anonymous"
     />
+
+    <link rel='stylesheet' type='text/css' href='{% static "/css/main.css" %}'>
+
   </head>
   <body>
     {% include 'accounts/navbar.html' %} {% block content %} {% endblock %}
