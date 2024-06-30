@@ -85,7 +85,7 @@ DATABASES = {
         'PORT': '5432',
     }
 }
-
+```
 
 ## Contributing
 We welcome contributions to enhance the HRIS system. To contribute:
