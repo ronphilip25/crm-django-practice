@@ -102,7 +102,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or suggestions, please feel free to reach out to the project maintainer:
 
 - **Name**: Ron Philip
-- **Email**: ronphilip25@example.com
+- **Email**: sanchezronphilip@gmail.com
 
 ---
 
