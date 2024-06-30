@@ -17,7 +17,6 @@ The Customer Management System (CMS) is a web application designed to manage cus
 ## Features
 - **Customer Registration and Management**: Easily add new customers and manage their details.
 - **Search and Filter Customers**: Efficiently search and filter customers based on various criteria.
-- **Customer Analytics and Reporting**: Generate reports and analyze customer data to make informed decisions.
 - **User Authentication and Access Control**: Secure access with user authentication and role-based permissions.
 
 ## Tech Stack
@@ -26,7 +25,7 @@ The Customer Management System (CMS) is a web application designed to manage cus
 - **PostgreSQL**: Open-source relational database system for storing and managing data securely.
 - **HTML5**: Markup language used for structuring web pages.
 - **CSS**: Style sheet language used for describing the presentation of web pages.
-- **JavaScript**: Programming language used for frontend interactivity (if applicable).
+- **JavaScript**: Programming language used for frontend interactivity.
 
 ## Installation
 Follow these steps to set up the project locally:
